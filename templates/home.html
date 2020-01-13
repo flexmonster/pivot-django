@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flexmonster Example</title>
+</head>
+<body>
+  <script src="https://cdn.flexmonster.com/flexmonster.js"></script>
+  <h1>Flexmonster Integration with Django</h1>
+  <div id="pivot-container"></div>
+
+  <script>
+      let pivot = new Flexmonster({
+          container: "#pivot-container",
+          componentFolder: "https://cdn.flexmonster.com/",
+          width: "100%",
+          height: 430,
+          toolbar: true,
+          report: {
+              dataSource: {
+                  type: "json",
+                  filename: "https://cdn.flexmonster.com/data/data.json"
+              },
+              slice: {
+                  rows: [
+                      {
+                          uniqueName: "Category"
+                      }
+                  ],
+                  columns: [
+                      {
+                          uniqueName: "Color"
+                      },
+                      {
+                          uniqueName: "[Measures]"
+                      }
+                  ],
+                  measures: [
+                      {
+                          uniqueName: "Price",
+                          aggregation: "sum"
+                      }
+                  ]
+              }
+          }
+      });
+  </script>
+</body>
+</html>
