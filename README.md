@@ -2,6 +2,14 @@
 [![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://flexmonster.com)
 
 
+## Prerequisites
+
+Python and Django are essential to Django development. 
+    
+<a href="https://docs.djangoproject.com/en/3.0/intro/install/#quick-install-guide" target="_blank" title="Installing Python and Django">
+Install Python and Django </a> if they are not already installed on your machine.
+
+
 ## How to run the Sample Project: 
 
  
