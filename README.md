@@ -8,7 +8,7 @@
 ###### 1) Clone the sample project: 
 
 ```bash
-git clone https://github.com/flexmonster/pivot-Django.git && cd pivot-Django
+git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 ```
 
 ###### 2) Run the sample project: 
