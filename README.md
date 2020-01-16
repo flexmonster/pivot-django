@@ -1,4 +1,4 @@
-# Flexmonster Pivot Table &amp; Charts integration with Django
+# Flexmonster Pivot Table &amp; Charts integration with <a href="https://www.djangoproject.com/" target="_blank" title="Django">Django</a>
 [![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://flexmonster.com)
 
 
