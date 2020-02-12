@@ -1,16 +1,17 @@
-# Flexmonster Pivot Table &amp; Charts integration with <a href="https://www.djangoproject.com/" target="_blank" title="Django">Django</a>
+# Flexmonster Pivot Table &amp; Charts integration with Django
 [![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://flexmonster.com)
+Website: www.flexmonster.com
 
+This repository holds the source code for a simple [Django](https://www.djangoproject.com/) and Flexmonster Pivot Table & Charts project.
 
 ## Prerequisites
 
 Python and Django are essential to Django development. 
     
-<a href="https://docs.djangoproject.com/en/3.0/intro/install/#quick-install-guide" target="_blank" title="Installing Python and Django">
-Install Python and Django </a> if they are not already installed on your machine.
+[Install Python and Django](https://docs.djangoproject.com/en/3.0/intro/install/#quick-install-guide) if they are not already installed on your machine.
 
 
-## How to run the Sample Project: 
+## Installation & Usage
 
  
 ###### 1) Clone the sample project: 
@@ -27,3 +28,4 @@ python manage.py runserver
 
 The project should be available at http://localhost:8000/  
 
+For more details please refer to [Flexmonster Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) tutorial.
