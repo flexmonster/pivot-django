@@ -28,7 +28,7 @@ Python and Django are essential to Django development.
 git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 ```
 
-2. Run the sample project: 
+2. Run the sample project with the Django pivot table: 
 
 ```bash
 python manage.py runserver
