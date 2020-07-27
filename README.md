@@ -34,7 +34,7 @@ git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 python manage.py runserver
 ```
 
-The project should be available at http://localhost:8000/  
+To see the result, open `http://localhost:8000/` in your browser.  
 
 ## Usage
 
