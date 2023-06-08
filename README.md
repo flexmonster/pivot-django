@@ -6,7 +6,9 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [Django](https://www.djangoproject.com/) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [Django](https://www.djangoproject.com/) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -14,21 +16,18 @@ This repository holds the source code for a simple [Django](https://www.djangopr
 
 ## Prerequisites
 
-Python and Django are essential to Django development. 
-    
-[Install Python and Django](https://docs.djangoproject.com/en/3.0/intro/install/#quick-install-guide) if they are not already installed on your machine.
-
+- [Python](https://www.python.org/downloads/)
+- [Django](https://www.djangoproject.com/download/)
 
 ## Installation
 
- 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command: 
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command: 
 
 ```bash
 git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 ```
 
-2. Run the sample project with the Django pivot table: 
+2. Run the sample project: 
 
 ```bash
 python manage.py runserver
@@ -38,4 +37,4 @@ To see the result, open `http://localhost:8000/` in your browser.
 
 ## Usage
 
-For details on usage, refer to [Flexmonster Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) tutorial.
+For details on usage, refer to the [Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) guide.
