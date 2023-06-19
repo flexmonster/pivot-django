@@ -12,7 +12,7 @@ Table of contents:
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites
 
@@ -35,6 +35,6 @@ python manage.py runserver
 
 To see the result, open `http://localhost:8000/` in your browser.  
 
-## Usage
+## Related Flexmonster docs
 
-For details on usage, refer to the [Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) guide.
+- [Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) — learn how to integrate Flexmonster into a Django project.
