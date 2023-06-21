@@ -1,6 +1,6 @@
 # Flexmonster Pivot Table &amp; Charts integration with Django
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: www.flexmonster.com
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -37,4 +37,4 @@ To see the result, open `http://localhost:8000/` in your browser.
 
 ## Related Flexmonster docs
 
-- [Integration with Django](https://www.flexmonster.com/doc/integration-with-django/) — learn how to integrate Flexmonster into a Django project.
+- [Integration with Django](https://www.flexmonster.com/doc/integration-with-django?r=github) — learn how to integrate Flexmonster into a Django project.
