@@ -34,16 +34,22 @@ git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 
 2. Run the sample project:
 
-```bash
-// On Windows
-py manage.py runserver
+    - On Windows:
 
-// On macOS
-python manage.py runserver
+    ```bash
+    py manage.py runserver
+    ```
 
-// On Ubuntu/Linux
-python3 manage.py runserver
-```
+    - On macOS:
+
+    ```bash
+    python manage.py runserver
+    ```
+    - On Ubuntu/Linux:
+
+    ```bash
+    python3 manage.py runserver
+    ```
 
 To see the result, open `http://localhost:8000/` in your browser.
 
