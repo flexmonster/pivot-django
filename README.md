@@ -1,6 +1,6 @@
 # Django pivot table | Flexmonster Pivot Table & Charts sample project with Django
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_djngo)
-Website: [www.flexmonster.com](https://www.flexmonster.com?r=sample_djngo)
+Website: [flexmonster.com](https://www.flexmonster.com?r=sample_djngo)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
  
