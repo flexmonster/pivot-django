@@ -32,7 +32,22 @@ Table of contents:
 git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 ```
 
-2. Run the sample project:
+2. Run the following command:
+
+    - On Windows:
+   
+    ```bash
+    py manage.py migrate
+    ```
+    - On macOS or Ubuntu/Linux:
+   
+    ```bash
+    python3 manage.py migrate
+    ```
+    
+This will create database tables for the default Django apps used in the project. [Learn more about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
+
+3. Run the sample project:
 
     - On Windows:
 
@@ -40,12 +55,7 @@ git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
     py manage.py runserver
     ```
 
-    - On macOS:
-
-    ```bash
-    python manage.py runserver
-    ```
-    - On Ubuntu/Linux:
+    - On macOS or Ubuntu/Linux:
 
     ```bash
     python3 manage.py runserver
