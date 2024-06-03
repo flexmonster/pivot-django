@@ -21,7 +21,7 @@ Table of contents:
 
 ## Prerequisites
 
-- [Python](https://www.python.org/downloads/)
+- [Python 3](https://www.python.org/downloads/)
 - [Django](https://www.djangoproject.com/download/)
 
 ## Installation
@@ -32,7 +32,7 @@ Table of contents:
 git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
 ```
 
-2. Run the following command:
+2. Run the [migrate](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate) command:
 
     - On Windows:
    
@@ -44,8 +44,6 @@ git clone https://github.com/flexmonster/pivot-django.git && cd pivot-django
     ```bash
     python3 manage.py migrate
     ```
-    
-This will create database tables for the default Django apps used in the project. [Learn more about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
 
 3. Run the sample project:
 
